@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Two Finger Volume</string>
+    <string name="service_description">Shows a volume control when you touch the edge strip with two fingers or press the power button twice. It does not read your screen or collect any data.</string>
+</resources>
